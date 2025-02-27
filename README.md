@@ -23,3 +23,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiminhdung&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiminhdung&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+## 👋 End
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+read+my+profile;Have+a+good+day" alt="Typing SVG" />
+</h1>
