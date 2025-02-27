@@ -17,3 +17,9 @@
 - 📖 You can help me improve my skills by pull request from any my [repositories](https://github.com/maiminhdung?tab=repositories)
 - 📫 Discord: `maiminhdung` | Facebook: `maiminhdung.2009` 
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiminhdung&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiminhdung&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
