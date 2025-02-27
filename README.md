@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/user-attachments/assets/870e3286-ca69-40de-88fe-8b1882d8ad0e">
+<img src="https://github.com/user-attachments/assets/870e3286-ca69-40de-88fe-8b1882d8ad0e" alt="Typing SVG">
 </h1>
 
 <!--
