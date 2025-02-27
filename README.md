@@ -1,5 +1,5 @@
 <h1 align="center">
-![Video chưa đặt tên](https://github.com/user-attachments/assets/870e3286-ca69-40de-88fe-8b1882d8ad0e)
+<img src="https://github.com/user-attachments/assets/870e3286-ca69-40de-88fe-8b1882d8ad0e">
 </h1>
 
 <!--
