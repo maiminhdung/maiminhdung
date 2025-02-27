@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/user-attachments/assets/870e3286-ca69-40de-88fe-8b1882d8ad0e" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+maiminhdung;College+Students" alt="Typing SVG" />
 </h1>
 
 <!--
